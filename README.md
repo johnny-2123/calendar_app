@@ -784,4 +784,4 @@ want to output.
 [9]: https://flask.palletsprojects.com/en/1.1.x/api/?highlight=url_for#flask.url_for
 [10]: https://docs.python.org/3.9/library/datetime.html#datetime.datetime
 [11]: https://docs.python.org/3.9/library/datetime.html#examples-of-usage-timedelta
-[12]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/flask/projects/calendar-this/assets/calendar-this-daily-layout.png
+[12]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/flask/projects/calendar-this/assets/calendar-this-daily-layout.png# calendar_app
